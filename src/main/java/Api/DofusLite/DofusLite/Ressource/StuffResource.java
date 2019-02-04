@@ -1,6 +1,8 @@
-package Api.DofusLite.DofusLite;
+package Api.DofusLite.DofusLite.Ressource;
 
 import org.springframework.beans.factory.annotation.Autowired;
+
+import Api.DofusLite.DofusLite.Repository.StuffRepository;
 
 public class StuffResource {
 	
